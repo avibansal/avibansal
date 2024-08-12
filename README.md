@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-bansal-931412184)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F9B232.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/avibansal/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23E6E6E6.svg?logo=codechef&logoColor=black)](https://www.codechef.com/users/avibansal3)
 
 
 
