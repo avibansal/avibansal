@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avi-bansal-931412184)
-[![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=leercode&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/avi-bansal-931412184)
+[![Leetcode](https://leetcode.com/static/images/LeetCode_Sharing.png](https://leetcode.com/u/avibansal/))
 
 
 # 💻 Tech Stack:
